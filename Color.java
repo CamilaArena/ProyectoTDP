@@ -8,7 +8,7 @@ class Color{
     
     //Constructor
     public Color(){
-	rojo = 200;
+    	rojo = 0;
         azul = 0;
         verde = 0;
     }
